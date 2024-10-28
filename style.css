@@ -87,8 +87,8 @@ h1{
   display: none;
 }
 .slider-img.active{
-  width: 1920px !important;
-  height: 1080px !important;
+  width: 766px !important;
+  height: 750px !important;
 }
 .slider-img.active h1{
    display: none;
